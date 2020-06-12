@@ -1,0 +1,108 @@
+body {
+padding:2%;	
+padding-left: 5%;
+}
+
+#btntop
+{
+	float:right;
+	padding-right:20%;
+}
+
+
+#header p {
+	
+    margin:0px;
+	font-family: cursive;
+	font-size: 30;
+    font-color: white;
+    padding: 10px;
+}
+
+#bottom {}
+
+
+.navbar ul li { 
+
+
+	float: left;
+    list-style-type: none;
+    padding: 20px;
+
+    background-color: none;
+    /*text-decoration: none;*/
+   
+
+}
+
+.bottom{
+	clear: both;
+	padding: 80px;
+}
+
+
+.navbar a {
+	
+	text-decoration: none;
+	    color: deepskyblue; 
+	   font-family: arial;
+
+
+	
+}
+
+
+#content1{
+	float: left;
+	padding: 5%;
+}
+
+#content2{
+	float: left;
+	padding:5%;
+}
+
+
+#content1left {
+	
+	float: left;
+	width: 40%;
+	background-color: white;
+
+}
+
+#content1right {
+	
+	float: right;
+	width: 40%;
+	background-color: white;
+}
+
+#content2left {
+	
+	float: left;
+	width: 40%;
+	background-color: white;
+}
+
+#content2right {
+	
+	float: right;
+	width: 40%;
+	background-color: white;
+}
+
+
+.button {
+    background-color: deepskyblue;
+    border: deepskyblue;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+}
+
+
+.button {border-radius: 50%;}
